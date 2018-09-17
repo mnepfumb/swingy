@@ -6,7 +6,7 @@ This is the second project from the Java world at 42. You will learn to develop 
 # Objectives
 Java,
 GUI, 
-SWING Framework. 
+SWING Framework,
 Object-Oriented Programming 
 
 # Skills
